@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "make up (Official Audio)",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-10T16:06:49.307332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Make Up",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/01_Make_Up_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "make up",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_make_up_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make-Up",
+      "artist": "Amanda Blank",
+      "has_synced": false,
+      "path": "select/03_Make-Up_Amanda_Blank.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make Up",
+      "artist": "Psapp",
+      "has_synced": false,
+      "path": "select/04_Make_Up_Psapp.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Can't Make Up My Mind",
+      "artist": "The Zombies",
+      "has_synced": true,
+      "path": "select/05_I_Can't_Make_Up_My_Mind_The_Zombies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Can't Make Up My Mind",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/06_I_Can't_Make_Up_My_Mind_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Make Out. Fall Out. Make Up.",
+      "artist": "Love Is All",
+      "has_synced": false,
+      "path": "select/07_Make_Out._Fall_Out._Make_Up._Love_Is_All.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kiss and Make Up",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/08_Kiss_and_Make_Up_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can't Make Up My Mind",
+      "artist": "Sonique",
+      "has_synced": false,
+      "path": "select/09_Can't_Make_Up_My_Mind_Sonique.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Break Up To Make Up",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/10_Break_Up_To_Make_Up_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kiss and Make Up",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/11_Kiss_and_Make_Up_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss and Make Up",
+      "artist": "Blake Babies",
+      "has_synced": false,
+      "path": "select/12_Kiss_and_Make_Up_Blake_Babies.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Martin Garrix feat. Florian Picasso",
+      "has_synced": true,
+      "path": "select/13_Make_Up_Your_Mind_Martin_Garrix_feat._Florian_Picasso.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/14_Make_Up_Your_Mind_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Make up Your Mind",
+      "artist": "Semisonic",
+      "has_synced": true,
+      "path": "select/15_Don't_Make_up_Your_Mind_Semisonic.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why Won't You Make Up Your Mind?",
+      "artist": "Tame Impala",
+      "has_synced": true,
+      "path": "select/16_Why_Won't_You_Make_Up_Your_Mind_Tame_Impala.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Why Won’t You Make Up Your Mind?",
+      "artist": "Tame Impala",
+      "has_synced": true,
+      "path": "select/17_Why_Won’t_You_Make_Up_Your_Mind_Tame_Impala.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "make up",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_make_up_Ariana_Grande.txt"
+    }
+  ]
+}
